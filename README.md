@@ -1,5 +1,6 @@
 # PagingStructuresRegion
 Windows Paging Strutures Region
+```
 
 FFFF8200`00000000 |------------| --------------------------------------
 		              |            |                                      |
@@ -27,4 +28,6 @@ FFFF81C0`C0000000 |------------| ---------------------------- PDE_BASE|
 		              |            |                                      |
 FFFF8180`00000000 |------------| -------------------------------------- PTE_BASE
                       
-             Paging Structures Region 
+             Paging Structures Region
+
+```
